@@ -45,8 +45,14 @@ picture {
 
 #profileright {
   float: right;
-  width: 50%;
-  height: 50%;
-  margin-left: 0px;
-  margin-rigth: 0px;
+  max-width: 350px;
+  max-height: 230px;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  margin-right: 50px;
+}
+
+.box {
 }

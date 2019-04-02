@@ -30,9 +30,10 @@ const IndexPage = () => (
         `CBS`,
         `CV`,
         `Candidate`,
+        `Janssen`,
       ]}
     />
-    <Figure caption="Photo from pexels.com">
+    <Figure caption="Photo from CBS">
       <picture>
         <source srcSet={img02_4x1} media={`(min-width: ${breakpoints.xl})`} />
         <source srcSet={img02_21x9} media={`(min-width: ${breakpoints.lg})`} />
@@ -42,15 +43,18 @@ const IndexPage = () => (
       </picture>
     </Figure>
     <Section>
-      <H1>Hi guys</H1>
-      <P>Welcome to my page.</P>
-      <P>Now you have the basis to build something great.</P>
-      <img id="profileright" src={img} />
-      <P>
-        Of course, you can also use icons, e.g.{" "}
-        <FontAwesomeIcon icon="coffee" />, <FontAwesomeIcon icon="yin-yang" />,{" "}
-        <FontAwesomeIcon icon="peace" />.
-      </P>
+      <body>
+        <img id="profileright" src={img} />
+        <H1>Hi guys</H1>
+        <P>Welcome to my page.</P>
+        <P>Now you have the basis to build something great.</P>
+
+        <P>
+          Of course, you can also use icons, e.g.{" "}
+          <FontAwesomeIcon icon="coffee" />, <FontAwesomeIcon icon="yin-yang" />
+          , <FontAwesomeIcon icon="peace" />.
+        </P>
+      </body>
     </Section>
   </Layout>
 )
