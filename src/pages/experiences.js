@@ -41,8 +41,10 @@ const ImprintPage = () => (
         </Box>
         <Box>
           <H4>Internship</H4>
-          <P>September 2017 - February 2018</P>
-          <P>Department: Professioanl Marketing</P>
+          <P>
+            September 2017 - February 2018 <br />
+            Department: Professioanl Marketing
+          </P>
         </Box>
       </RespGrid>
       <RespGrid min={"240px"}>
@@ -53,8 +55,10 @@ const ImprintPage = () => (
           <H4>Internship</H4>
           <P>July 2016 - August 2016</P>
           <P>
-            Design of a new website. Communication with international partner
-            agencies. Layout of travel itineraries.
+            Design of a new website. <br />
+            Communication with international partner agencies.
+            <br />
+            Layout of travel itineraries.
           </P>
         </Box>
       </RespGrid>
@@ -79,8 +83,8 @@ const ImprintPage = () => (
           <H4>Summer Student Job</H4>
           <P>July 2015</P>
           <P>
-            Administrative support in the national wine museum. Co-hostin events
-            and workshops. Managing bike rentals.
+            Administrative support in the national wine museum.
+            <br /> Co-hosting events and workshops. Managing bike rentals.
           </P>
         </Box>
       </RespGrid>

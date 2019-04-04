@@ -25,7 +25,7 @@ const ImprintPage = () => (
         </Box>
         <Box>
           <H3>Credits</H3>
-          <P>...</P>
+          <P>Ulrich Anders</P>
         </Box>
       </RespGrid>
     </Section>
