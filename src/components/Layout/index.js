@@ -65,6 +65,7 @@ const Layout = ({ children }) => {
             <MenuItem to="/about/">About</MenuItem>
             <MenuItem to="/experiences/">Experiences</MenuItem>
             <MenuItem to="/education/">Education</MenuItem>
+            <MenuItem to="/skills/">Skills</MenuItem>
           </Menu>
         </Header>
         <Main>{children}</Main>
@@ -83,7 +84,6 @@ const Layout = ({ children }) => {
               href="https://www.instagram.com/jultz92/"
               target="_blank"
               rel="noopener nofollow"
-              padding-right="50px"
             >
               <FontAwesomeIcon icon={["fab", "instagram"]} />
             </a>

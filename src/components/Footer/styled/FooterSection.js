@@ -4,7 +4,7 @@ import theme from "../../../theme"
 const FooterSection = styled.section`
   display: flex;
   justify-content: space-between;
-  height: ${theme.footerHeight || "100px"};
+  height: ${theme.footerHeight || "80px"};
   max-width: ${theme.sectionWidth};
   margin: auto;
   padding: 0 0.5rem;

@@ -11,16 +11,13 @@ const ImprintPage = () => (
   <Layout>
     <SEO title="Imprint" />
     <Section>
-      <H1>Education</H1>
+      <H1>Languages</H1>
       <RespGrid min={"240px"}>
         <Box>
-          <H3>Cologne Business School</H3>
+          <H4>English</H4>
         </Box>
         <Box>
-          <H4>
-            MA International Business. Specialisation: Marketing Management
-          </H4>
-          <P>September 2018 - present</P>
+          <p>fluent</p>
         </Box>
       </RespGrid>
       <RespGrid min={"240px"}>
