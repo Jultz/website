@@ -11,6 +11,7 @@ const DataProtectionPage = () => (
   <Layout>
     <SEO title="Data Protection" />
     <Section>
+      <p />
       <h1>Disclaimer</h1>
 
       <p>Last updated: April 04, 2019</p>
