@@ -43,18 +43,18 @@ const IndexPage = () => (
       </picture>
     </Figure>
     <Section>
-      <body>
+      <div>
         <img id="profileright" src={img} />
         <H1>Hi guys</H1>
         <P>Welcome to my page.</P>
-        <P>Now you have the basis to build something great.</P>
+        <P>My Name is Julia Janssen. </P>
 
         <P>
           Of course, you can also use icons, e.g.{" "}
           <FontAwesomeIcon icon="coffee" />, <FontAwesomeIcon icon="yin-yang" />
           , <FontAwesomeIcon icon="peace" />.
         </P>
-      </body>
+      </div>
     </Section>
   </Layout>
 )

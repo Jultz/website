@@ -49,10 +49,16 @@ picture {
   max-height: 230px;
   position: relative;
   margin-top: 30px;
-  margin-bottom: 200px;
   margin-left: 100px;
   margin-right: 50px;
 }
 
-.box {
+#profileleft {
+  float: left;
+  max-width: 380px;
+  max-height: 230px;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 50px;
 }

@@ -11,54 +11,43 @@ const ImprintPage = () => (
   <Layout>
     <SEO title="Imprint" />
     <Section>
-      <H1>Languages</H1>
+      <H1>Skills & Interests</H1>
       <RespGrid min={"240px"}>
         <Box>
+          <H3>Languages</H3>
           <H4>English</H4>
+          <p>Fluent</p>
+          <H4>German</H4>
+          <p>Fluent</p>
+          <H4>French</H4>
+          <p>Fluent</p>
+          <H4>Spanish</H4>
+          <p>Basic knowlege</p>
+          <H4>Luxembourgish</H4>
+          <p>Mothertongue</p>
         </Box>
         <Box>
-          <p>fluent</p>
-        </Box>
-      </RespGrid>
-      <RespGrid min={"240px"}>
-        <Box>
-          <H3>Cologne Business School</H3>
-        </Box>
-        <Box>
-          <H4>
-            BA International Culture & Management. Specialisation:
-            Cross-cultural Management
-          </H4>
-          <P>September 2014 - August 2017</P>
-        </Box>
-      </RespGrid>
-      <RespGrid min={"240px"}>
-        <Box>
-          <H3>National Chengchi University, Taiwan</H3>
-        </Box>
-        <Box>
-          <H4>Semester abroad</H4>
-          <P>September 2016 - January 2017</P>
+          <H3>IT Skills</H3>
+          <H4>MS Office</H4>
+          <H4>SAP</H4>
+          <H4>CSR Systems</H4>
+          <H4>Javascrip, CSS & HTML</H4>
+          <p>basic knowlege</p>
+          <H4>HP ALM</H4>
+          <p>basic knowlege</p>
         </Box>
       </RespGrid>
       <RespGrid min={"240px"}>
         <Box>
-          <H3>Maastricht University</H3>
-        </Box>
-        <Box>
-          <H4>BSc Economics & Business Economics</H4>
-          <P>September 2013 - June 2014</P>
-          <P>Not completed</P>
-        </Box>
-      </RespGrid>
-      <RespGrid min={"240px"}>
-        <Box>
-          <H3>Lycée de Garçons Luxembourg (LGL)</H3>
-        </Box>
-        <Box>
-          <H4>Highschol</H4>
-          <P>September 2005 - July 2013</P>
-          <P>Specialisation: Social Sciences</P>
+          <H3>Interests & Hobbies</H3>
+          <H4>Sports</H4>
+          <p>
+            Gym <br />
+            Running (half marathon) <br />
+            Skiing
+          </p>
+          <H4>Travel</H4>
+          <p>Exploring foreign countries and new cultures.</p>
         </Box>
       </RespGrid>
     </Section>

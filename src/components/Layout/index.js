@@ -6,7 +6,7 @@ import "./styled/layout.css"
 import { ThemeProvider } from "styled-components"
 import { Flex } from "rebass"
 import "typeface-montserrat"
-import "typeface-dosis"
+//import "typeface-dosis"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { library } from "@fortawesome/fontawesome-svg-core"
@@ -29,6 +29,7 @@ import Menu from "../Menu"
 import MenuItem from "../MenuItem"
 //import imgLogo from "../../images/logoUA.png"
 import imgLogo from "../../images/JJLogo.png"
+import "typeface-ubuntu"
 
 library.add(
   fab,
@@ -66,6 +67,7 @@ const Layout = ({ children }) => {
             <MenuItem to="/experiences/">Experiences</MenuItem>
             <MenuItem to="/education/">Education</MenuItem>
             <MenuItem to="/skills/">Skills</MenuItem>
+            <MenuItem to="/background/">Background</MenuItem>
           </Menu>
         </Header>
         <Main>{children}</Main>
