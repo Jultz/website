@@ -18,6 +18,7 @@ import img02_16x9 from "../images/1200/16x9/02.jpeg"
 import img02_3x2 from "../images/0800/3x2/02.jpeg"
 import img02_4x3 from "../images/0480/4x3/02.jpeg"
 import img from "../images/JJBW.jpg"
+import Carousel from "nuka-carousel"
 
 const IndexPage = () => (
   <Layout>
@@ -42,6 +43,14 @@ const IndexPage = () => (
         <img src={img02_4x3} alt="Graduation" />
       </picture>
     </Figure>
+    <Carousel>
+      <img src={img02_4x1} />
+      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide2" />
+      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide3" />
+      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide4" />
+      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide5" />
+      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide6" />
+    </Carousel>
     <Section>
       <div>
         <img id="profileright" src={img} />

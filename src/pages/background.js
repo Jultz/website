@@ -11,11 +11,6 @@ import Background from "../components/Background"
 const Backgroundpage = () => (
   <Layout>
     <SEO title="background" />
-    <Background>
-      <Section>
-        <H1>hallo</H1>
-      </Section>
-    </Background>
   </Layout>
 )
 
