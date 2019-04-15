@@ -79,7 +79,7 @@ const ImprintPage = () => (
           <img id="profileleft" src={lgl} />
         </div>
         <Box>
-          <H4>Highschol</H4>
+          <H4>Highschool</H4>
           <P>September 2005 - July 2013</P>
           <P>Specialisation: Social Sciences</P>
         </Box>
