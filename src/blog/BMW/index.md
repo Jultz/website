@@ -12,10 +12,10 @@ As part of the customer relationship management department, the CRM Systems and 
 
 ##Tasks
 
-- developing, monitoring and optimizing online CRM campaigns
-- maintaining the www.BMW.de website and overseeing the rollout of different new features
-- finding new ways to improve the customer journey on the website
-- running constant tests on the website, especially the car-configurator
-- participation in the development of different E-Mail and Social Media campaigns
-- active participation in the development and optimization of the BMW "need analyzer" for the German market
-- implementation of the new GDPR guidelines on the different online touchpoints of BMW
+- Developing, monitoring and optimizing online CRM campaigns
+- Maintaining the www.BMW.de website and overseeing the rollout of different new features
+- Finding new ways to improve the customer journey on the website
+- Running constant tests on the website, especially the car-configurator
+- Participation in the development of different E-Mail and Social Media campaigns
+- Active participation in the development and optimization of the BMW "need analyzer" for the German market
+- Implementation of the new GDPR guidelines on the different online touchpoints of BMW

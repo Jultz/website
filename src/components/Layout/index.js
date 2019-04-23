@@ -16,6 +16,7 @@ import {
   faTwitterSquare,
   faLinkedin,
   faInstagram,
+  faXing,
 } from "@fortawesome/free-brands-svg-icons"
 import { faPeace, faCoffee, faYinYang } from "@fortawesome/free-solid-svg-icons"
 
@@ -39,7 +40,8 @@ library.add(
   faTwitterSquare,
   faFacebookSquare,
   faLinkedin,
-  faInstagram
+  faInstagram,
+  faXing
 )
 
 const Layout = ({ children }) => {
@@ -95,6 +97,13 @@ const Layout = ({ children }) => {
               rel="noopener nofollow"
             >
               <FontAwesomeIcon icon={["fab", "linkedin"]} />
+            </a>
+            <a
+              href="https://www.xing.com/profile/Julia_Janssen25/cv?sc_o=mxb_p"
+              target="_blank"
+              rel="noopener nofollow"
+            >
+              <FontAwesomeIcon icon={["fab", "xing"]} />
             </a>
           </Flex>
           <Flex flexDirection="column">

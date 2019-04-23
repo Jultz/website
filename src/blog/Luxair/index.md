@@ -10,6 +10,6 @@ Luxair Group is a Luxembourgish airline, servicing destinations in Europe, north
 
 ##Tasks
 
-- making invoices for customers
-- Sending out booking confirmations
-- Administrative work at the travel agency and information office at the airport
+- Recording invoices for customers
+- Sending out booking confirmations and plane tickets
+- Administrative work in the travel agency and information office at the airport

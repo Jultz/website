@@ -17,6 +17,12 @@ import img02_21x9 from "../images/1440/21x9/02.jpeg"
 import img02_16x9 from "../images/1200/16x9/02.jpeg"
 import img02_3x2 from "../images/0800/3x2/02.jpeg"
 import img02_4x3 from "../images/0480/4x3/02.jpeg"
+import writing from "../images/writing.jpeg"
+//import grad from "../images/grad.jpeg"
+import hustle from "../images/hustle.jpeg"
+import strategy from "../images/strategy.jpeg"
+import buero from "../images/buero.jpeg"
+import boss from "../images/boss.jpeg"
 import img from "../images/JJBW.jpg"
 import Carousel from "nuka-carousel"
 
@@ -36,19 +42,30 @@ const IndexPage = () => (
     />
 
     <Carousel>
-      <img src={img02_4x1} />
-      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide2" />
-      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide3" />
-      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide4" />
-      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide5" />
-      <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide6" />
+      <img src={hustle} />
+      <img src={boss} />
+      <img src={strategy} />
+      <img src={buero} />
+      <img src={writing} />
     </Carousel>
     <Section>
       <div>
         <img id="profileright" src={img} />
-        <H1>Hi guys</H1>
-        <P>Welcome to my page.</P>
-        <P>My Name is Julia Janssen. This is my personal page.</P>
+        <H1>Hello,</H1>
+        <P>Welcome to my page! </P>
+        <P>
+          My name is Julia Janssen. I am a Master student at Cologne Business
+          School (CBS), studying International Business with a specialization in
+          Marketing Management.
+        </P>
+        <P>
+          This website is a resume of my educational and professional
+          background.{" "}
+        </P>
+        <P>
+          Enjoy exploring and feel free to contact me over the social media
+          channels listed below.
+        </P>
       </div>
     </Section>
   </Layout>
