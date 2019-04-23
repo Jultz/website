@@ -28,7 +28,7 @@ const ImprintPage = () => (
             <br />
             <br />
             <br />
-            MA International Business. Specialisation: Marketing Management
+            MA International Business. Specialization: Marketing Management
           </H4>
           <P>September 2018 - present</P>
         </div>
@@ -43,7 +43,7 @@ const ImprintPage = () => (
             <br />
             <br />
             <br />
-            BA International Culture & Management. Specialisation:
+            BA International Culture & Management. Specialization:
             Cross-cultural Management
           </H4>
           <P>September 2014 - August 2017</P>

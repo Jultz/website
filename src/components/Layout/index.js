@@ -63,10 +63,7 @@ const Layout = ({ children }) => {
           <Logo to="/" text="Julia Janssen" img={imgLogo} />
           <Menu>
             <MenuItem to="/">Home</MenuItem>
-            <MenuItem to="/blog/">Blog</MenuItem>
-            <MenuItem to="/resources/">Resources</MenuItem>
-            <MenuItem to="/about/">About</MenuItem>
-            <MenuItem to="/experiences/">Experiences</MenuItem>
+            <MenuItem to="/blog/">Experience</MenuItem>
             <MenuItem to="/education/">Education</MenuItem>
             <MenuItem to="/skills/">Skills</MenuItem>
             <MenuItem to="/background/">Background</MenuItem>
@@ -75,7 +72,7 @@ const Layout = ({ children }) => {
         <Main>{children}</Main>
         <Footer>
           <div>© Julia Janssen</div>
-          <Flex width={"3rem"} justifyContent="space-between">
+          <Flex width={"4rem"} justifyContent="space-between">
             <a
               href="https://www.facebook.com/juliajanssen92"
               target="_blank"
