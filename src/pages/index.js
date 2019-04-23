@@ -34,15 +34,7 @@ const IndexPage = () => (
         `Janssen`,
       ]}
     />
-    <Figure caption="Photo from CBS">
-      <picture>
-        <source srcSet={img02_4x1} media={`(min-width: ${breakpoints.xl})`} />
-        <source srcSet={img02_21x9} media={`(min-width: ${breakpoints.lg})`} />
-        <source srcSet={img02_16x9} media={`(min-width: ${breakpoints.md})`} />
-        <source srcSet={img02_3x2} media={`(min-width: ${breakpoints.sm})`} />
-        <img src={img02_4x3} alt="Graduation" />
-      </picture>
-    </Figure>
+
     <Carousel>
       <img src={img02_4x1} />
       <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide2" />
@@ -56,13 +48,7 @@ const IndexPage = () => (
         <img id="profileright" src={img} />
         <H1>Hi guys</H1>
         <P>Welcome to my page.</P>
-        <P>My Name is Julia Janssen. </P>
-
-        <P>
-          Of course, you can also use icons, e.g.{" "}
-          <FontAwesomeIcon icon="coffee" />, <FontAwesomeIcon icon="yin-yang" />
-          , <FontAwesomeIcon icon="peace" />.
-        </P>
+        <P>My Name is Julia Janssen. This is my personal page.</P>
       </div>
     </Section>
   </Layout>

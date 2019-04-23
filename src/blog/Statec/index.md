@@ -1,11 +1,14 @@
 ---
 title: STATEC
-date: 2019-02-06
+date: 2011-06-30
 description: Student Job
 ---
 
 ![SKP](img/1200/16x9/SKP.jpg)
 
-This is the first post on this blog!
+Summer student job at the government statistics service of Luxembourg.
 
-Blavla
+##Tasks
+
+- General administrative tasks
+- Supporting the department responsible for the calculation of the national pricing index
