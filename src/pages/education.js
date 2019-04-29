@@ -27,7 +27,6 @@ const ImprintPage = () => (
           <H4>
             <br />
             <br />
-            <br />
             MA International Business. Specialization: Marketing Management
           </H4>
           <P>September 2018 - present</P>
@@ -68,7 +67,11 @@ const ImprintPage = () => (
           <img id="profileleft" src={books} />
         </div>
         <Box>
-          <H4>BSc Economics & Business Economics</H4>
+          <H4>
+            <br />
+            <br />
+            BSc Economics & Business Economics
+          </H4>
           <P>September 2013 - June 2014</P>
           <P>Not completed</P>
         </Box>
@@ -79,7 +82,13 @@ const ImprintPage = () => (
           <img id="profileleft" src={lgl} />
         </div>
         <Box>
-          <H4>Highschool</H4>
+          <H4>
+            <br />
+            <br />
+            <br />
+            <br />
+            Highschool
+          </H4>
           <P>September 2005 - July 2013</P>
           <P>Specialisation: Social Sciences</P>
         </Box>

@@ -66,7 +66,7 @@ const Layout = ({ children }) => {
             <MenuItem to="/blog/">Experience</MenuItem>
             <MenuItem to="/education/">Education</MenuItem>
             <MenuItem to="/skills/">Skills</MenuItem>
-            <MenuItem to="/background/">Background</MenuItem>
+            <MenuItem to="/interests/">Interests</MenuItem>
           </Menu>
         </Header>
         <Main>{children}</Main>
