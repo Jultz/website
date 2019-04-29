@@ -37,19 +37,6 @@ const ImprintPage = () => (
           <p>basic knowlege</p>
         </Box>
       </RespGrid>
-      <RespGrid min={"240px"}>
-        <Box>
-          <H3>Interests & Hobbies</H3>
-          <H4>Sports</H4>
-          <p>
-            Gym <br />
-            Running (half marathon) <br />
-            Skiing
-          </p>
-          <H4>Travel</H4>
-          <p>Exploring foreign countries and new cultures.</p>
-        </Box>
-      </RespGrid>
     </Section>
   </Layout>
 )

@@ -79,28 +79,28 @@ const Layout = ({ children }) => {
               rel="noopener nofollow"
               padding-right="10px"
             >
-              <FontAwesomeIcon icon={["fab", "facebook-square"]} />
+              <FontAwesomeIcon icon={["fab", "facebook-square"]} size="2x" />
             </a>
             <a
               href="https://www.instagram.com/jultz92/"
               target="_blank"
               rel="noopener nofollow"
             >
-              <FontAwesomeIcon icon={["fab", "instagram"]} />
+              <FontAwesomeIcon icon={["fab", "instagram"]} size="2x" />
             </a>
             <a
               href="https://www.linkedin.com/in/julia-janssen-981226aa/"
               target="_blank"
               rel="noopener nofollow"
             >
-              <FontAwesomeIcon icon={["fab", "linkedin"]} />
+              <FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" />
             </a>
             <a
               href="https://www.xing.com/profile/Julia_Janssen25/cv?sc_o=mxb_p"
               target="_blank"
               rel="noopener nofollow"
             >
-              <FontAwesomeIcon icon={["fab", "xing"]} />
+              <FontAwesomeIcon icon={["fab", "xing"]} size="2x" />
             </a>
           </Flex>
           <Flex flexDirection="column">
