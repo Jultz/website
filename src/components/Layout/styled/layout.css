@@ -48,7 +48,7 @@ picture {
   max-width: 450px;
   max-height: 400px;
   position: relative;
-  margin-top: 30px;
+  margin-top: 150px;
   margin-left: 100px;
   margin-right: 50px;
 }
@@ -63,10 +63,8 @@ picture {
   margin-right: 50px;
 }
 .box1 {
-  text-align: center;
-  background-color: #78909c;
+  text-align: justify;
   line-height: 1.5;
-  border: 3px solid #78909c;
   margin-left: 0px;
   margin-top: 20px;
   margin-right: 500px;

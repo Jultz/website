@@ -20,6 +20,8 @@ const ImprintPage = () => (
             <br />
             {"Hardefußtstraße,1"}
             <br />
+            {"50674 Cologne"}
+            <br />
             {"juliakimjanssen@hotmail.com"}
           </P>
         </Box>

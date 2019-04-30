@@ -72,7 +72,7 @@ const Layout = ({ children }) => {
         <Main>{children}</Main>
         <Footer>
           <div>© Julia Janssen</div>
-          <Flex width={"4rem"} justifyContent="space-between">
+          <Flex width={"10rem"} justifyContent="space-between">
             <a
               href="https://www.facebook.com/juliajanssen92"
               target="_blank"

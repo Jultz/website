@@ -4,7 +4,7 @@ date: 2011-06-30
 description: Student Job
 ---
 
-![SKP](img/1200/16x9/SKP.jpg)
+![SKP](img/1200/16x9/statec.jpeg)
 
 Summer student job at the government statistics service of Luxembourg.
 

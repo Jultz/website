@@ -10,6 +10,7 @@ import gym from "../images/gym.jpeg"
 import world from "../images/world.jpeg"
 import ski from "../images/ski.jpeg"
 import marathon from "../images/marathon.jpeg"
+import golf from "../images/golf.jpeg"
 
 const ImprintPage = () => (
   <Layout>
@@ -34,6 +35,11 @@ const ImprintPage = () => (
       <RespGrid min={"240px"}>
         <div>
           <img id="profileright" src={ski} />
+        </div>
+      </RespGrid>
+      <RespGrid min={"240px"}>
+        <div>
+          <img id="profileleft" src={golf} />
         </div>
       </RespGrid>
     </Section>
