@@ -31,7 +31,7 @@ const ImprintPage = () => (
           <H4>MS Office</H4>
           <H4>SAP</H4>
           <H4>CSR Systems</H4>
-          <H4>Javascrip, CSS & HTML</H4>
+          <H4>Javascript, CSS & HTML</H4>
           <p>basic knowlege</p>
           <H4>HP ALM</H4>
           <p>basic knowlege</p>
