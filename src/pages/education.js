@@ -57,6 +57,7 @@ const ImprintPage = () => (
           <br />
           <br />
           <br />
+          <br />
           <H4>Semester abroad</H4>
           <P>September 2016 - January 2017</P>
         </Box>
@@ -73,7 +74,7 @@ const ImprintPage = () => (
             BSc Economics & Business Economics
           </H4>
           <P>September 2013 - June 2014</P>
-          <P>Not completed</P>
+          <P>(Not completed)</P>
         </Box>
       </RespGrid>
       <RespGrid min={"240px"}>

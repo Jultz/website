@@ -16,7 +16,7 @@ const ImprintPage = () => (
   <Layout>
     <SEO title="Imprint" />
     <Section>
-      <H1>Hobbies</H1>
+      <H1>Interests</H1>
       <RespGrid min={"240px"}>
         <div>
           <img id="profileleft" src={world} />

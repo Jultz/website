@@ -32,9 +32,9 @@ const ImprintPage = () => (
           <H4>SAP</H4>
           <H4>CSR Systems</H4>
           <H4>Javascript, CSS & HTML</H4>
-          <p>basic knowlege</p>
+          <p>Basic knowlege</p>
           <H4>HP ALM</H4>
-          <p>basic knowlege</p>
+          <p>Basic knowlege</p>
         </Box>
       </RespGrid>
     </Section>
